@@ -2,4 +2,4 @@
 JLinkLog.txt
 *uvgui*
 *.bin
-*.bin
+*.hex
